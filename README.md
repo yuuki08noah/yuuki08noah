@@ -9,7 +9,8 @@
   </a>
 </span>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuki08noah&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <span style='text-align: center'>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuki08noah&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<span>
+  <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuki08noah&langs_count=8&theme=radical)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuuki08noah)](https://solved.ac/yuuki08noah)
 </center>
