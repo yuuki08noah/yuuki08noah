@@ -7,7 +7,7 @@
   <a href="https://velog.io/@yuuki08noah/posts/">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
-</span>
+</span> 
   
   <span style='margin: auto'>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuki08noah&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</span>
   <br><br>
