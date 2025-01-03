@@ -9,5 +9,6 @@
   </a>
 </span> 
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuuki08noah)](https://solved.ac/yuuki08noah)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuuki08noah)](https://solved.ac/yuuki08noah)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuki08noah&show_icons=true&theme=radical)
+
 </center>
