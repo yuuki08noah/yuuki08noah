@@ -9,7 +9,7 @@
   </a>
 </span> 
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuuki08noah)](https://solved.ac/yuuki08noah)
-  [![Running Cat](https://tenor.com/bsUJR.gif)]
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuuki08noah)](https://solved.ac/yuuki08noah)![Running Cat](https://media.tenor.com/XSns7DzGv38AAAAi/cat-running.gif)<br>
+  ![Spinning Cat](https://media1.tenor.com/m/EFDwfjT2GuQAAAAC/spinning-cat.gif)![Happy Cat](https://media1.tenor.com/m/s50cn0tfWewAAAAC/cat.gif)
 <br>
 </center>
