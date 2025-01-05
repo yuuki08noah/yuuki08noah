@@ -10,5 +10,6 @@
 </span> 
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuuki08noah)](https://solved.ac/yuuki08noah)
+  [![Running Cat](https://tenor.com/bsUJR.gif)]
 <br>
 </center>
