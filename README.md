@@ -1,7 +1,7 @@
   <span align="center">
   <a href="https://www.instagram.com/sejun_noah08/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
+  </a> 
 </span>
 <span align="center">
   <a href="https://velog.io/@yuuki08noah/posts/">
