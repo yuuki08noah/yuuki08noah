@@ -11,6 +11,6 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuuki08noah)](https://solved.ac/yuuki08noah)![Running Cat](https://media.tenor.com/XSns7DzGv38AAAAi/cat-running.gif)<br>
   <hr>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuki08noah&layout=compact&lang_count=10)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuki08noah&layout=compact)
 <br>
 </center>
