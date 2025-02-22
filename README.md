@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://www.instagram.com/sejun_noah08/">
+  <a href="https://www.instagram.com/sejun_noah08/" style="color: inherit;text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a> 
-  <a href="https://velog.io/@yuuki08noah/posts/">
+  </a>
+  <a href="https://velog.io/@yuuki08noah/posts/" style="color: inherit;text-decoration: none;">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a><hr></p>
       <p align="center">
