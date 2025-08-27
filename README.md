@@ -7,9 +7,8 @@
   </a><hr></p>
       <p align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuki08noah&layout=compact&hide=jupyter%20notebook,html,css&langs_count=20)  ![Running Cat](https://media.tenor.com/XSns7DzGv38AAAAi/cat-running.gif)<hr>
-  </p>
-
+한성 장학생 12기 15조
+부산소프트웨어마이스터고 4기 소프트웨어개발과
     
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuuki08noah)](https://solved.ac/yuuki08noah)
 <br>
