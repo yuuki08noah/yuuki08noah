@@ -7,7 +7,7 @@
   </a><hr></p>
       <p align="center">
 
-한성 장학생 12기 15조
+한성 장학생 12기 15조  
 부산소프트웨어마이스터고 4기 소프트웨어개발과
     
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yuuki08noah)](https://solved.ac/yuuki08noah)
